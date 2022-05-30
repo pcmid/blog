@@ -1,0 +1,15 @@
+base_url: https://blog.shabi.id/
+language_code: en-us
+paginate: 5
+theme: m10c
+title: iｄ's blog
+params:
+  author: id
+  description: 这货不是id
+  social:
+  - icon: github
+    name: github
+    url: https://github.com/pcmid
+  - icon: matrix
+    name: matrix
+    url: '@me:shabi.id'
