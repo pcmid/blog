@@ -7,9 +7,9 @@ params:
   author: id
   description: 这货不是id
   social:
-  - icon: github
-    name: github
+  - name: github
+    icon: github
     url: https://github.com/pcmid
-  - icon: matrix
-    name: matrix
-    url: '@me:shabi.id'
+    #- icon: matrix
+    #  name: matrix
+    #  url: '@me:shabi.id'
