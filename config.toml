@@ -8,5 +8,11 @@ paginate = 5
   author = "id"
   description = "这货不是id"
 [[params.social]]
+  icon = "github"
   name = "github"
   url = "https://github.com/pcmid"
+
+[[menu.main]]
+  identifier = "tags"
+  name = "Tags"
+  url = "/tags/"
